@@ -1,0 +1,12 @@
+{
+  "status": "ok",
+  "class": "ill",
+  "explanation": "È stata identificata un'area sospetta nella regione frontale.",
+  "bounding": {
+    "shape": "rect",
+    "x": 0.35,
+    "y": 0.42,
+    "w": 0.18,
+    "h": 0.22
+  }
+}

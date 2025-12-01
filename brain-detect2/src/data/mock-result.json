@@ -1,0 +1,11 @@
+{
+  "status": "ok",
+  "class": "ill",
+  "explanation": "Lesione iperintensa in sede cortico-sottocorticale fronto-parietale destra.",
+  "bounding": {
+    "shape": "circle",
+    "cx": 0.62,
+    "cy": 0.44,
+    "r": 0.08
+  }
+}
